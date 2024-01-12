@@ -1,5 +1,3 @@
-
-https://github.com/bakhacode/fineants/assets/114852081/2c48a173-7269-44b6-9014-61b7fa1ea4dc
 ![Group 22](https://github.com/fine-ants/frontend/assets/114852081/2be2569b-448a-481f-ab49-d1eb53452683)
 
 <br>
